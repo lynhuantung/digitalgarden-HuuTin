@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":"2025-02-02","time":"14:09","Week":"05","tags":["so-lien-lac"],"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Sổ Liên Lạc/SLLHS - UH1ADV0J.md","permalink":"/so-lien-lac/sllhs-uh-1-adv-0-j/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","updated":"2025-02-02T14:51:21.651+07:00"}
+{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":"2025-02-02","time":"14:09","Week":"05","tags":["so-lien-lac"],"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Sổ Liên Lạc/SLLHS - UH1ADV0J.md","permalink":"/so-lien-lac/sllhs-uh-1-adv-0-j/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","updated":"2025-02-02T19:59:53.515+07:00"}
 ---
 
 # 📘 **SỔ LIÊN LẠC HỌC SINH**
@@ -15,16 +15,24 @@
 
 ## **📚 Tình Hình Học Tập**
 
-🔹 **Tiếp thu bài:** Rất tốt/Khá/Cần cải thiện
-🔹 **Thái độ học tập:** Chăm chỉ/Tích cực/Cần nhắc nhở
-🔹 **Kỹ năng tiếng Anh:**
+* 🔹**02/02/2025:** 
+	🔹 **Tiếp thu bài:** Rất tốt/Khá/Cần cải thiện
+	🔹 **Thái độ học tập:** Chăm chỉ/Tích cực/Cần nhắc nhở
+	🔹 **Kỹ năng tiếng Anh:**
+		🔹 **Đọc:** Tốt/Khá/Cần cải thiện
+		🔹 **Nói:** Tốt/Khá/Cần cải thiện
+		🔹 **Viết:** Tốt/Khá/Cần cải thiện
+		🔹 **Nghe:** Tốt/Khá/Cần cải thiện
 
-| Kỹ năng | Đánh giá              |
-| ------- | --------------------- |
-| 📖 Đọc  | Tốt/Khá/Cần cải thiện |
-| ✍️ Viết | Tốt/Khá/Cần cải thiện |
-| 🎧 Nghe | Tốt/Khá/Cần cải thiện |
-| 🗣️ Nói | Tốt/Khá/Cần cải thiện |
+* 🔹**25/12/2024:** 
+	🔹 **Tiếp thu bài:** Rất tốt/Khá/Cần cải thiện
+	🔹 **Thái độ học tập:** Chăm chỉ/Tích cực/Cần nhắc nhở
+	🔹 **Kỹ năng tiếng Anh:**
+		🔹 **Đọc:** Tốt/Khá/Cần cải thiện
+		🔹 **Nói:** Tốt/Khá/Cần cải thiện
+		🔹 **Viết:** Tốt/Khá/Cần cải thiện
+		🔹 **Nghe:** Tốt/Khá/Cần cải thiện
+
 
 ---
 
