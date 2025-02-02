@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T14:37:36.935+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T15:14:15.323+07:00"}
 ---
 
 
@@ -27,4 +27,4 @@ Chào mừng bạn đến với hệ thống tài liệu **dạy tiếng Anh c�
 
 ## **📘 Thông báo**
 [[Publish/Thông Báo/Thông báo lịch học\|Thông báo lịch học]] : thông báo lịch học 
-[[Publish/Sổ Liên Lạc/SỔ LIÊN LẠC HỌC SINH - UH1ADV0J\|SỔ LIÊN LẠC HỌC SINH - UH1ADV0J]] : sổ liên lạc học sinh
+[[Publish/Sổ Liên Lạc/SLLHS - UH1ADV0J\|SLLHS - UH1ADV0J]] : sổ liên lạc học sinh
