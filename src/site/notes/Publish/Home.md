@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T15:14:15.323+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T15:19:55.484+07:00"}
 ---
 
 
@@ -26,5 +26,5 @@ Chào mừng bạn đến với hệ thống tài liệu **dạy tiếng Anh c�
 - 🔹 [[Publish/Giới Thiệu/Đánh giá trình độ học sinh theo CEFR\|Đánh giá trình độ học sinh theo CEFR]] → **Hệ thống đánh giá trình độ học sinh theo khung CEFR.**  
 
 ## **📘 Thông báo**
-[[Publish/Thông Báo/Thông báo lịch học\|Thông báo lịch học]] : thông báo lịch học 
+[[Publish/Thông Báo/lich-hoc-AU9ESDGQ\|lich-hoc-AU9ESDGQ]] : thông báo lịch học 
 [[Publish/Sổ Liên Lạc/SLLHS - UH1ADV0J\|SLLHS - UH1ADV0J]] : sổ liên lạc học sinh
