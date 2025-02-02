@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T10:20:37.319+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T10:21:21.836+07:00"}
 ---
 
 
 ## 🎯 Anh Ngữ Hữu Tín
----
 Chào mừng bạn đến với hệ thống tài liệu **dạy tiếng Anh cấp 1**!  
 Đây là nơi tổng hợp tài liệu giảng dạy, bài tập thực hành và phương pháp học hiệu quả giúp học sinh **phát triển toàn diện kỹ năng tiếng Anh**, bao gồm **nghe, nói, đọc, viết**.  
 
