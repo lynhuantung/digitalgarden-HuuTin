@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T10:21:21.836+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T14:12:07.361+07:00"}
 ---
 
 
@@ -24,3 +24,6 @@ Chào mừng bạn đến với hệ thống tài liệu **dạy tiếng Anh c�
 - 🔹 [[Publish/Giới Thiệu/MOC\|MOC]] → **Hướng dẫn học tập và điều hướng tài liệu.**  
 - 🔹 [[Publish/Giới Thiệu/Hướng dẫn sử dụng hệ thống tài liệu\|Hướng dẫn sử dụng hệ thống tài liệu]] → **Cách sử dụng tài liệu hiệu quả.**  
 - 🔹 [[Publish/Giới Thiệu/Đánh giá trình độ học sinh theo CEFR\|Đánh giá trình độ học sinh theo CEFR]] → **Hệ thống đánh giá trình độ học sinh theo khung CEFR.**  
+
+## **📘 Thông báo**
+[[Publish/Thông Báo/Thông báo lịch học\|Thông báo lịch học]] : thông báo lịch học 
