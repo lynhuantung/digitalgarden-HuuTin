@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Tư duy bằng tiếng Anh.md","permalink":"/local-graph-view/tu-duy-bang-tieng-anh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T07:47:09.368+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Tư duy bằng tiếng Anh.md","permalink":"/local-graph-view/tu-duy-bang-tieng-anh/","dgPassFrontmatter":true,"updated":"2025-02-01T07:47:09.368+07:00"}
 ---
 
 # Tư duy bằng tiếng Anh

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Viết luận.md","permalink":"/local-graph-view/viet-luan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T07:47:13.231+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Viết luận.md","permalink":"/local-graph-view/viet-luan/","dgPassFrontmatter":true,"updated":"2025-02-01T07:47:13.231+07:00"}
 ---
 
 # Viết luận

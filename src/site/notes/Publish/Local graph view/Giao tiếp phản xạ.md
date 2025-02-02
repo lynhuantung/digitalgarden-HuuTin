@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Giao tiếp phản xạ.md","permalink":"/local-graph-view/giao-tiep-phan-xa/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T07:46:41.975+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Giao tiếp phản xạ.md","permalink":"/local-graph-view/giao-tiep-phan-xa/","dgPassFrontmatter":true,"updated":"2025-02-01T07:46:41.975+07:00"}
 ---
 
 # Giao tiếp

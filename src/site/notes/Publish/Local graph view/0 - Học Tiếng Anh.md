@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/0 - Học Tiếng Anh.md","permalink":"/local-graph-view/0-hoc-tieng-anh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T08:40:57.330+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/0 - Học Tiếng Anh.md","permalink":"/local-graph-view/0-hoc-tieng-anh/","dgPassFrontmatter":true,"updated":"2025-02-01T08:40:57.330+07:00"}
 ---
 
 # Học Tiếng Anh

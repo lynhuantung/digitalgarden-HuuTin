@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Nghe Podcast.md","permalink":"/local-graph-view/nghe-podcast/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T07:47:00.941+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Nghe Podcast.md","permalink":"/local-graph-view/nghe-podcast/","dgPassFrontmatter":true,"updated":"2025-02-01T07:47:00.941+07:00"}
 ---
 
 # Nghe Podcast

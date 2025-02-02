@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Học từ vựng qua phim.md","permalink":"/local-graph-view/hoc-tu-vung-qua-phim/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T07:46:57.331+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/Học từ vựng qua phim.md","permalink":"/local-graph-view/hoc-tu-vung-qua-phim/","dgPassFrontmatter":true,"updated":"2025-02-01T07:46:57.331+07:00"}
 ---
 
 # Học từ vựng qua phim
