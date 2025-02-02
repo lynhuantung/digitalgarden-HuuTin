@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":"2025-02-02","time":"14:09","Week":"05","tags":["so-lien-lac"],"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Sổ Liên Lạc/SLLHS - UH1ADV0J.md","permalink":"/so-lien-lac/sllhs-uh-1-adv-0-j/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","updated":"2025-02-02T23:06:33.609+07:00"}
+{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":"2025-02-02","time":"14:09","Week":"05","tags":["so-lien-lac"],"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Sổ Liên Lạc/SLLHS - UH1ADV0J.md","permalink":"/so-lien-lac/sllhs-uh-1-adv-0-j/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","updated":"2025-02-02T23:29:30.595+07:00"}
 ---
 
 # 📘 **SỔ LIÊN LẠC HỌC SINH**
@@ -44,10 +44,7 @@
 - 🎧 **Luyện nghe**: Cho con nghe bài hát, phim hoạt hình tiếng Anh.
 - 🗣️ **Thực hành nói**: Hỏi và trả lời câu đơn giản bằng tiếng Anh.
 - ✍️ **Viết câu ngắn**: Gợi ý con viết nhật ký bằng tiếng Anh.
-- Podcast: 
-<iframe src="https://www.youtube.com/watch?v=9zsKjnLyA9k&list=PLcetZ6gSk96-OLXPnsmtP2O1SZwaSW7Ev" width="100%" height="600px"></iframe>
-
-
+- Podcast: https://www.youtube.com/watch?v=9zsKjnLyA9k&list=PLcetZ6gSk96-OLXPnsmtP2O1SZwaSW7Ev
 
 
 ---
