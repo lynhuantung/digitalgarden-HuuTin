@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-02T09:36:29.112+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-02T09:38:08.410+07:00"}
 ---
 
-[[Publish/Local graph view/0 - Học Tiếng Anh\|0 - Học Tiếng Anh]]
+
+
+| Chức năng             | Phím tắt      |
+| --------------------- | ------------- |
+| [[Publish/Local graph view/0 - Học Tiếng Anh\|0 - Học Tiếng Anh]] | Học tiếng anh |
+|                       |               |
 
 >[!hint] Đây là cấu hình thư mục Obsidian mới nhất mà tôi đang sử dụng, cập nhật tháng 8/2023.
 
