@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Giới Thiệu/MOC.md","permalink":"/gioi-thieu/moc/","dgPassFrontmatter":true,"updated":"2025-02-02T09:55:11.017+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Giới Thiệu/MOC.md","permalink":"/gioi-thieu/moc/","dgPassFrontmatter":true,"updated":"2025-02-02T10:14:07.654+07:00"}
 ---
 
 # 🗺️ MOC - Hướng dẫn học tập
@@ -17,6 +17,7 @@
 - 📖 [[Publish/Giới Thiệu/Tài liệu giáo viên\|Tài liệu giáo viên]] → **Hướng dẫn giảng dạy, lesson plan.**  
 - 📝 [[Publish/Giới Thiệu/Bài tập thực hành\|Bài tập thực hành]] → **Tổng hợp bài tập theo cấp độ, có đáp án.**  
 - 📊 [[Publish/Giới Thiệu/Đánh giá trình độ\|Đánh giá trình độ]] → **Các bài kiểm tra trình độ tiếng Anh theo .**  
+- 📊 [[Publish/Giới Thiệu/Đánh giá trình độ học sinh theo CEFR\|Đánh giá trình độ học sinh theo CEFR]] → **Các bài kiểm tra trình độ tiếng Anh theo CEFR .**  
 
 ## **🏆 Ứng dụng thực tế**
 - 📅 [[Publish/Giới Thiệu/Thực hành hàng ngày\|Thực hành hàng ngày]] → **Gợi ý bài tập & thói quen học tập hiệu quả.**  - 

@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T10:12:54.056+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-02T10:14:38.321+07:00"}
 ---
 
 
 
-| Chức năng                                | Phím tắt      |
-| ---------------------------------------- | ------------- |
-| [[Publish/Local graph view/0 - Học Tiếng Anh\|0 - Học Tiếng Anh]]                    | Học tiếng anh |
-| [[Publish/Giới Thiệu/Giới thiệu chung\|Giới thiệu chung]]                     |               |
-| [[Publish/Giới Thiệu/MOC\|MOC]]                                  |               |
-| [[Publish/Giới Thiệu/Hướng dẫn sử dụng hệ thống tài liệu\|Hướng dẫn sử dụng hệ thống tài liệu]]  |               |
-| [[Publish/Giới Thiệu/Đánh giá trình độ học sinh theo CEFR\|Đánh giá trình độ học sinh theo CEFR]] |               |
+| Chức năng                                | Phím tắt          |
+| ---------------------------------------- | ----------------- |
+| [[Publish/Local graph view/0 - Học Tiếng Anh\|0 - Học Tiếng Anh]]                    | Học tiếng anh     |
+| [[Publish/Giới Thiệu/Giới thiệu chung\|Giới thiệu chung]]                     |                   |
+| [[Publish/Giới Thiệu/MOC\|MOC]]                                  | Hướng dẫn học tập |
+| [[Publish/Giới Thiệu/Hướng dẫn sử dụng hệ thống tài liệu\|Hướng dẫn sử dụng hệ thống tài liệu]]  |                   |
+| [[Publish/Giới Thiệu/Đánh giá trình độ học sinh theo CEFR\|Đánh giá trình độ học sinh theo CEFR]] |                   |
 
 
 ## 🎯 Sứ mệnh  
