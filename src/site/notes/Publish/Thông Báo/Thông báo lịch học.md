@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":":2025-02-02","time":"14:09","Week":"05","tags":["lich-hoc","#thongbao"],"dg-path":"Thông Báo/Thông báo lịch học.md","permalink":"/thong-bao/thong-bao-lich-hoc/","dgPassFrontmatter":true,"updated":"2025-02-02T14:11:21.111+07:00"}
+{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":":2025-02-02","time":"14:09","Week":"05","tags":["lich-hoc","#thongbao"],"dg-path":"Thông Báo/Thông báo lịch học.md","permalink":"/thong-bao/thong-bao-lich-hoc/","dgPassFrontmatter":true,"updated":"2025-02-02T14:13:57.858+07:00"}
 ---
 
 
@@ -40,7 +40,7 @@ Chào mừng các em học sinh quay trở lại lớp học! Dưới đây là 
 
 📌 Quý phụ huynh và học sinh có bất kỳ thắc mắc nào, vui lòng liên hệ: 
 📞 SĐT: 
-📩 Email: [Email trung tâm]  
+📩 Email: Email trung tâm
 🌐 Website: 
 
 ✨ Chúng tôi mong chờ sự tham gia của các em học sinh và hy vọng sẽ có một năm học thật thành công! 🚀📚
