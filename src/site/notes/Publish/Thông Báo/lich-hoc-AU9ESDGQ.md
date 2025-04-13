@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":"2025-02-02","time":"14:09","Week":"05","tags":["lich-hoc","#thongbao"],"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Thông Báo/lich-hoc-AU9ESDGQ.md","permalink":"/thong-bao/lich-hoc-au-9-esdgq/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","updated":"2025-04-13T09:12:33.806+07:00"}
+{"dg-publish":true,"dg-home":false,"Mã":"25020502-01","date":"2025-02-02","time":"14:09","Week":"05","tags":["lich-hoc","#thongbao"],"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Thông Báo/lich-hoc-AU9ESDGQ.md","permalink":"/thong-bao/lich-hoc-au-9-esdgq/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","updated":"2025-04-13T09:24:19.943+07:00"}
 ---
 
 
 # 📅 **Thông Báo Lịch Học Đầu Năm 2025**
 ---
 
-## 📢 **Kính gửi quý phụ huynh và học sinh,*
+## 📢 **Kính gửi quý phụ huynh và học sinh*
 
 Chào mừng các em học sinh quay trở lại lớp học! Dưới đây là **lịch học đầu năm** dành cho các lớp từ **Lớp 3 đến Lớp 8**. Quý phụ huynh vui lòng theo dõi để sắp xếp thời gian phù hợp cho các em.
 
