@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/0 - Học Tiếng Anh.md","permalink":"/local-graph-view/0-hoc-tieng-anh/","dgPassFrontmatter":true,"updated":"2025-02-02T13:42:47.653+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/0 - Học Tiếng Anh.md","permalink":"/local-graph-view/0-hoc-tieng-anh/","dgPassFrontmatter":true,"updated":"2025-02-09T08:48:54.495+07:00"}
 ---
 
 # Học Tiếng Anh
@@ -17,7 +17,7 @@ Việc học tiếng Anh là một hành trình dài và cần sự kiên trì. 
 
 ## Câu hỏi khám phá
 ---
-![Pasted image 20250202134203.png](/img/user/src/Pasted%20image%2020250202134203.png)
+![Hoc-tieng-anh.png](/img/user/src/Hoc-tieng-anh.png)
 ### 🔍 **Câu hỏi về làm rõ khái niệm (Clarification Questions)**
 
 1. **Ngữ pháp** có vai trò gì trong việc học tiếng Anh? Nó giúp gì trong **giao tiếp phản xạ** và **viết luận**?
